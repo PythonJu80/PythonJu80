@@ -1,66 +1,170 @@
-# 🧠 KING JU | AI Hacker | Repo Remixer | Human++ Coder
+# JU JOHN | AI Systems Engineer | Distributed Systems | AI Platforms
 
-Welcome to the lab.
+Building production-grade AI systems, developer tools, and intelligent infrastructure.
 
-This isn’t your typical code dump.  
-This is where open-source gets **remixed, refactored, and redefined**.  
-I'm here to **bend AI** until it breaks — then rebuild it better.  
-Not just automation. Not just orchestration.  
-**I'm evolving code into cognition.**
+I design and engineer systems where software, automation, and artificial intelligence converge — from multi-agent platforms and knowledge graphs to developer tooling, security automation, and cloud-native infrastructure.
+
+My work focuses on making AI systems more reliable, observable, governed, and useful in real-world production environments.
 
 ---
 
-## 💡 What I Do
+## 🧠 What I Build
 
-- 🧬 Build Modular AI Systems that self-config, self-heal, and self-scale.
-- 🧠 Create MCP Servers that turn boring GitHub repos into autonomous tools.
-- 🔐 Blend Recon, PenTesting, and Vision AI for unstoppable agents.
-- 🔄 Remix existing projects like a digital chemist on a synth trip.
+### AI Platforms & Agent Systems
 
----
+- Multi-agent AI architectures using LangGraph and MCP
+- AI workflow orchestration and tool-driven automation
+- Model routing, evaluation, and reliability systems
+- Governance-aware AI execution pipelines
+- Retrieval and knowledge-driven AI systems
 
-## ⚔️ Philosophy
+### Software Intelligence
 
-> *I don’t fork repos. I weaponize them.*
+- Repository understanding systems
+- AI-assisted code analysis
+- AST and Tree-sitter based language intelligence
+- Code property graphs and dependency analysis
+- Developer productivity tooling
 
-This is **post-DevOps**.
-This is **post-Prompt Engineering**.
-This is **AI infrastructure for the next era**.
+### Infrastructure & Automation
 
----
-
-## 🎛️ The Stack
-
-- 🐳 Docker everything — isolation is power.
-- 🧠 Ollama, GPT-4, LLaMA3 — local when needed, cloud when necessary.
-- 📦 Supabase, Redis, Qdrant, Neo4j — structured chaos.
-- ⚡ Caddy, ZeroTier, reverse proxy sorcery.
-
----
-
-## 📡 Why This Exists
-
-To push boundaries.  
-To make AI tools so lean, mean, and **commercially dangerous** —  
-others won’t just copy...  
-**They’ll try to reverse-engineer the echo.**
+- Containerised production platforms
+- Distributed backend systems
+- Cloud-native deployments
+- Observability and operational tooling
+- Secure automation frameworks
 
 ---
 
-## 🧪 Contact / Collab
+## ⚙️ Engineering Philosophy
 
-> Only the bold reach out.  
-> If you’re building something real — I’m listening.  
-> If not, keep scrolling.
+> Build systems that can be trusted, understood, and operated.
+
+AI is only useful when it is reliable.
+
+I focus on engineering foundations that make intelligent systems production-ready:
+
+- Deterministic execution where possible
+- Strong validation and verification
+- Clear system boundaries
+- Observable workflows
+- Secure-by-design architecture
 
 ---
 
-## ⚠️ Disclaimer
+## 🛠️ Technology Stack
 
-Some of what you’ll see here will look like magic.  
-That’s because it is.  
-But don’t ask for the spellbook.
+### AI & Data
+
+- Python
+- LangGraph
+- MCP (Model Context Protocol)
+- OpenAI APIs
+- Anthropic APIs
+- Ollama
+- RAG Systems
+- Knowledge Graphs
+
+### Backend
+
+- FastAPI
+- Async Python
+- TypeScript
+- REST APIs
+- GraphQL
+- WebSockets
+
+### Infrastructure
+
+- Docker
+- Kubernetes
+- Linux
+- AWS
+- GitHub Actions
+- CI/CD
+- Cloudflare
+
+### Data Platforms
+
+- Neo4j
+- PostgreSQL
+- Redis
+- OpenSearch
+- Qdrant
+- Supabase
 
 ---
 
-*© King Ju — Spinning up minds in containers since day one.*
+## 🚀 Current Focus
+
+Building AI platforms that combine:
+
+- Agent orchestration
+- Knowledge representation
+- Software intelligence
+- Security automation
+- Enterprise governance
+
+The goal is not simply generating code.
+
+The goal is building systems that understand, reason, validate, and operate.
+
+---
+
+## 🔬 Featured Work
+
+### ANAIS AI Platform
+
+A governed AI platform focused on:
+
+- Controlled AI execution
+- Multi-agent workflows
+- Knowledge graph reasoning
+- Evidence generation
+- Enterprise automation
+
+### Repository Intelligence
+
+Systems that enable AI agents to understand software projects through:
+
+- Source analysis
+- Symbol relationships
+- Dependency mapping
+- Graph-based representations
+
+### AI Automation & Security Platforms
+
+Production systems combining:
+
+- AI-assisted investigation
+- Workflow automation
+- Security intelligence
+- Compliance evidence management
+
+---
+
+## 🌐 Links
+
+Website:
+https://anais.solutions
+
+GitHub:
+https://github.com/PythonJu80
+
+---
+
+## 🤝 Collaboration
+
+Interested in:
+
+- AI infrastructure
+- Developer tooling
+- Distributed systems
+- Enterprise automation
+- Open-source engineering
+
+If you are building serious systems with AI, infrastructure, or software intelligence, feel free to connect.
+
+---
+
+© JU JOHN
